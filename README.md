@@ -1,7 +1,5 @@
 ![Perfil](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
 
-  <a href="https://www.linkedin.com/in/samuel-augusto-323ba4261/" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
-
 <div>
 
   🗣️ Samuel 21 Anos.
@@ -30,6 +28,7 @@
 </br>
 
   
+
   ### 📝 **Tecnologias**  
   <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="20px"   /> 
@@ -56,11 +55,19 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="20px"/>
   </div>
 
+
+
 </br>
+
+
 
 🖇 **Outros**
 <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React" height="20px" />
 </div>
+
+
+
+  <a href="https://www.linkedin.com/in/samuel-augusto-323ba4261/" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
 
 </br>
