@@ -51,7 +51,6 @@
   <div>
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="Postgres" height="20px"/>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MYSQL" height="20px"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="20px"/>
   </div>
 
 
