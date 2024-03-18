@@ -63,6 +63,7 @@
 🖇 **Outros**
 <div>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" alt="VisualStudioCode" height="20px" />
 </div>
 
 
